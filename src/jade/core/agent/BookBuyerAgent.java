@@ -9,7 +9,7 @@ import jade.domain.FIPAAgentManagement.DFAgentDescription;
 import jade.domain.FIPAAgentManagement.ServiceDescription;
 
 /**
-@author Boiko Anastasiia
+@author Pryima Anna
 */
 
 
