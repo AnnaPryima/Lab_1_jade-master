@@ -10,7 +10,7 @@ import jade.lang.acl.MessageTemplate;
 import java.util.Hashtable;
 
 /**
-@author Boiko Anastasiia
+@author Pryima Anna
 */
 
 public class BookSellerAgent extends Agent {
